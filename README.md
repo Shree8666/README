@@ -1,8 +1,6 @@
 # $${\color{green} \textbf{Who \ Am \ I?}}$$
 
 
-## Connect with Me:
-
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
