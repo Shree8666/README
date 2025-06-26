@@ -1,8 +1,7 @@
 # $${\color{green} \textbf{Who \ Am \ I?}}$$
 
 
-## Connect with Me:
-                     https://www.linkedin.com/in/shreeraj-tawale-650365295/
+## Connect with Me: https://www.linkedin.com/in/shreeraj-tawale-650365295/
 
 
 
